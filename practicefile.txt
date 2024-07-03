@@ -1,1 +1,2 @@
 in this file the content written for sample of the git hub
+through new branch the file is pushed
